@@ -1,4 +1,4 @@
-**Secure Data Hiding in Images using Stengography**  
+**Secure Data Hiding in Images using Steganography**  
 
 **📌 Project Overview**  
 This project is a **GUI-based Image Steganography tool** built using **Python, OpenCV, and Tkinter**. It allows users to **hide a secret message inside an image** and later **retrieve it using a password**. The message is stored within the image’s pixel values without visibly altering the image.  
