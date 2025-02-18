@@ -1,4 +1,3 @@
-
 **Secure Data Hiding in Images using Stengography**  
 
 **📌 Project Overview**  
